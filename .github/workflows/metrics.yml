@@ -25,7 +25,6 @@ jobs:
           #  - read:packages (for some packages related data)
           #  - repo          (optional, if you want to include private repositories)
           token: ${{ github.token }}
-
           # Options
           user: Hxncusik
           template: classic
